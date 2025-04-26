@@ -7,6 +7,6 @@ export default defineConfig({
   server: {
     host:'0.0.0.0',
     port: process.env.PORT || 5173,
-    allowedHosts: ['all'],
+    allowedHosts: ['rendertry-a1x3.onrender.com','all'],
   }
 })
